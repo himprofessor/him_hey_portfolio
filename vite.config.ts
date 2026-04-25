@@ -13,6 +13,7 @@ export default defineConfig(({ mode }) => ({
       overlay: false,
     },
   },
+  base: "/him_hey_portfolio/",
   plugins: [
     react(),
     mode === "development" && componentTagger(),
