@@ -7,7 +7,7 @@ A modern, responsive personal portfolio built as a Progressive Web App (PWA). It
 - ⚡ React + Vite + TypeScript + Tailwind CSS
 - 🎨 Dark + neon design system with optional light mode toggle
 - 📱 Fully responsive — mobile-first, tablet, desktop
-- 📄 PDF export via [`html2pdf.js`](https://github.com/eKoopmans/html2pdf.js) → `YourName_Final.pdf`
+- 📄 PDF export via [`html2pdf.js`](https://github.com/eKoopmans/html2pdf.js) → `him_hey_portfolio.pdf`
 - 🧊 Glassmorphism cards, scroll/hover animations, sticky navbar
 - 🪄 PWA-ready — `manifest.webmanifest`, app icons, "Add to Home Screen"
 - ♿ Accessible — semantic HTML, keyboard-friendly nav
